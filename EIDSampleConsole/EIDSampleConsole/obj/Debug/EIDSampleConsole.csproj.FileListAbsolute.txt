@@ -1,0 +1,15 @@
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\EIDSampleConsole.exe.config
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\EIDSampleConsole.exe
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\EIDSampleConsole.pdb
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\UAE_IDCardCSharpAPI.dll
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\UAE_IDCardCSharpWrapper.dll
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\UAE_IDCardLib.dll
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\SignatureUpgrade.dll
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\obj\Debug\EIDSampleConsole.csprojAssemblyReference.cache
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\obj\Debug\EIDSampleConsole.csproj.CoreCompileInputs.cache
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\obj\Debug\EIDSampleConsole.csproj.CopyComplete
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\obj\Debug\EIDSampleConsole.exe
+C:\Users\omarmallat\Documents\Visual Studio 2017\Projects\EIDSampleConsole\EIDSampleConsole\obj\Debug\EIDSampleConsole.pdb
