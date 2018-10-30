@@ -1,4 +1,3 @@
-# EIDReader
 # How to read Emirates ID data from web application, using JavaScript, Chrome extension, and desktop application?
 
 Emirates ID Reader is a tool to allow Reading Emirates ID from web applications. As of writing this document, the only applicable way to read emirates ID is to have a desktop application only. The SDK provided by Emirates ID authority included some java applet examples which will not work anymore on recent browsers.
