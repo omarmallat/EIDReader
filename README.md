@@ -20,5 +20,5 @@ Chrome Extension that uses two main concepts:
 
 .Net Console Application to read Emirates ID data and push it to clipboard.
 
-For more information, check the wiki https://github.com/omarmallat/EIDReader/wiki
+For more information, check the [wiki page](https://github.com/omarmallat/EIDReader/wiki) 
 
