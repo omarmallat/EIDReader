@@ -22,5 +22,5 @@ For more information, check the [wiki page](https://github.com/omarmallat/EIDRea
 
 > Credits: [BBCodePaste](https://github.com/jeske/BBCodePaste) for reading the clipboard.
 
-> using Native Messging in chrome is supposed to receive data directly from the exe, instead of letting the exe push data to clipboard and then reading it. However, I faced some errors while returning values from the .net console application. As per Native Messaging documentation, I have to set the exe I/O mode to 0_BINARY which I don't know how to do it in C#. 
+> using Native Messging in chrome is supposed to receive data directly from the exe, instead of letting the exe push data to clipboard and then reading it. However, I faced some errors while returning values from the .net console application. As per Native Messaging documentation, I have to set the exe I/O mode to `0_BINARY` which I don't know how to do it in C#. 
 
